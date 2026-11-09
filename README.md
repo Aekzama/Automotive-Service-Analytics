@@ -36,8 +36,6 @@ This project uses a synthetic automotive service dataset created for learning an
 
 ## Author
 Aspiring Junior Data Analyst with hands-on automotive service experience.
-
-Markdown
 ## Dashboard Preview
-![Technician Revenue Dashboard] (Untitled.png)
 
+![Technician Revenue Dashboard](Untitled.png)
