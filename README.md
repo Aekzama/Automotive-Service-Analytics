@@ -39,3 +39,15 @@ Aspiring Junior Data Analyst with hands-on automotive service experience.
 ## Dashboard Preview
 
 ![Technician Revenue Dashboard](Untitled.png)
+
+## Revenue Analysis
+
+### Key Insights
+- Parts revenue accounts for approximately 62% of total revenue before discount.
+- Labor revenue contributes approximately 38%.
+- Parts revenue is the larger revenue component.
+
+### Business Insight
+The business generates a larger share of revenue from parts than labor. Management should monitor parts pricing, inventory availability, and gross margin.
+
+*Note: This project uses synthetic data for portfolio purposes.*
