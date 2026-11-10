@@ -51,3 +51,16 @@ Aspiring Junior Data Analyst with hands-on automotive service experience.
 The business generates a larger share of revenue from parts than labor. Management should monitor parts pricing, inventory availability, and gross margin.
 
 *Note: This project uses synthetic data for portfolio purposes.*
+### Engine Service Delay Analysis
+
+The analysis identified Mongkol as the technician with the highest average delay among technicians handling at least five completed Engine jobs.
+
+- Mongkol completed 7 Engine jobs, and all 7 were delayed (100%), with an average delay of 3.14 days.
+- Anan also had a 100% delay rate across 6 jobs, averaging 2.83 days.
+- Fah had a lower delay rate of 62.5% across 8 jobs, but delayed jobs still averaged 2.60 days.
+
+**Business Recommendation:**
+
+Investigate the underlying causes of delays for Mongkol and Anan, including repair complexity, parts availability, workload distribution, and diagnostic time. Review individual work orders before concluding that technician performance is the root cause.
+
+*Note: The findings are based on a small sample of work orders and should be validated with additional data.*
